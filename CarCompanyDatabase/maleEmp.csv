@@ -1,0 +1,8 @@
+"emp_id","first_name","last_name","birth_day","sex","salary","super_id","branch_id"
+100,"HUSAM","ZIADEH","2005-06-02","M",2000,"",1
+101,"ANAS","ALHUSSIENI","2008-07-17","M",2500,100,1
+102,"YAZAN","MOHAMMAD","1964-03-15","M",1500,100,2
+105,"Stanley","Hudson","2005-02-19","M",600,102,2
+106,"HASHEM","FARES","1995-09-05","M",3800,100,3
+107,"ASLAN","OGLU","1989-07-22","M",6500,106,3
+108,"ALI","YALMEZ","1997-10-01","M",1050,106,3
