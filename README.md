@@ -12,10 +12,6 @@ The database consists of several interconnected tables. The schema is defined in
 - **Works_With**: Links employees to the clients they work with and tracks total sales.
 - **Branch_Supplier**: Records suppliers associated with each branch.
 
-### Entity-Relationship Diagram (ERD)
-Below is the Entity-Relationship Diagram illustrating the relationships between the tables:
-
-![Company ER Diagram](/home/ubuntu/car_company_db/CarCompanyDatabase/Company ER.png)
 
 ### Relational Schema
 For a more detailed view of the relational structure, refer to the following diagram:
