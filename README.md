@@ -104,25 +104,4 @@ Result (from `sexCout.csv`):
 | 7          | M   |
 | 2          | F   |
 
-## Setup and Usage
 
-To set up and use this database:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone <repository_url>
-    cd CarCompanyDatabase
-    ```
-2.  **Execute the SQL script:**
-    Use a SQL client (e.g., MySQL Workbench, DBeaver, or the command line) to connect to your database server and execute the `compsnyDB.session.sql` script. This will create the tables and populate them with sample data.
-
-    ```bash
-    mysql -u your_username -p your_database_name < compsnyDB.session.sql
-    ```
-    (Replace `your_username` and `your_database_name` with your actual credentials and database name.)
-
-## Contributing
-Contributions are welcome! Please feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE.md).
